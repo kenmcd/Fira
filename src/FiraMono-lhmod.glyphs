@@ -23,23 +23,19 @@ value = "Licensed under the Open Font License, version 1.1 or later";
 {
 name = "Family Alignment Zones";
 value = (
-"{739, 12}",
+"{935, 12}",
 "{689, 12}",
 "{527, 10}",
 "{0, -12}",
-"{-202, -14}",
+"{-265, -14}",
 );
 },
 {
 name = vendorID;
 value = CTDB;
-},
-{
-name = "New Property";
-value = "New Value";
 }
 );
-date = "2014-05-21 09:18:42 +0000";
+date = "2014-05-25 15:41:57 +0000";
 designer = "Carrois Corporate & Edenspiekermann AG";
 designerURL = "http://www.carrois.com";
 familyName = "Fira Mono";
@@ -119,7 +115,7 @@ name = cpsp;
 fontMaster = (
 {
 alignmentZones = (
-"{959, 12}",
+"{935, 12}",
 "{689, 12}",
 "{527, 12}",
 "{0, -12}",
@@ -2823,7 +2819,7 @@ unicode = 0049;
 {
 color = 4;
 glyphname = IJ;
-lastChange = "2014-03-25 13:52:36 -0500";
+lastChange = "2014-05-25 15:44:05 -0500";
 layers = (
 {
 layerId = UUID0;
@@ -2832,9 +2828,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"216 -139 LINE",
-"435 -79 OFFCURVE",
-"535 37 OFFCURVE",
+"204 -141 LINE",
+"470 -115 OFFCURVE",
+"535 27 OFFCURVE",
 "535 186 CURVE SMOOTH",
 "535 689 LINE",
 "11 689 LINE",
@@ -2849,9 +2845,9 @@ nodes = (
 "204 614 LINE",
 "440 614 LINE",
 "440 190 LINE SMOOTH",
-"440 53 OFFCURVE",
-"364 -13 OFFCURVE",
-"193 -68 CURVE"
+"440 43 OFFCURVE",
+"394 -50 OFFCURVE",
+"193 -71 CURVE"
 );
 }
 );
@@ -2864,8 +2860,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"220 -184 LINE",
-"443 -121 OFFCURVE",
+"200 -184 LINE",
+"463 -141 OFFCURVE",
 "557 -19 OFFCURVE",
 "557 170 CURVE SMOOTH",
 "557 693 LINE",
@@ -2882,7 +2878,7 @@ nodes = (
 "397 591 LINE",
 "397 163 LINE SMOOTH",
 "397 29 OFFCURVE",
-"344 -20 OFFCURVE",
+"364 -40 OFFCURVE",
 "181 -72 CURVE"
 );
 }
@@ -8107,13 +8103,13 @@ rightKerningGroup = Z;
 {
 color = 4;
 glyphname = a;
-lastChange = "2014-04-28 11:26:48 -0500";
+lastChange = "2014-05-25 15:41:41 -0500";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{491, 0}";
+position = "{512, -12}";
 },
 {
 name = top;
@@ -8183,7 +8179,7 @@ width = 600;
 anchors = (
 {
 name = ogonek;
-position = "{517, 0}";
+position = "{530, -15}";
 },
 {
 name = top;
@@ -8483,7 +8479,7 @@ unicode = 0101;
 {
 color = 7;
 glyphname = aogonek;
-lastChange = "2014-04-28 11:26:53 -0500";
+lastChange = "2014-05-25 15:41:41 -0500";
 layers = (
 {
 background = {
@@ -8569,7 +8565,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 101, -12}";
 }
 );
 layerId = UUID0;
@@ -8660,7 +8656,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = ogonek;
-transform = "{1, 0, 0, 1, 112, 0}";
+transform = "{1, 0, 0, 1, 125, -15}";
 }
 );
 layerId = "BF448B58-7A35-489E-A1C9-12628F60690C";
@@ -44078,29 +44074,12 @@ unicode = 002C;
 {
 color = 4;
 glyphname = ellipsis;
-lastChange = "2014-04-11 12:07:21 -0500";
+lastChange = "2014-05-25 15:47:00 -0500";
 layers = (
 {
 layerId = UUID0;
 name = Regular;
 paths = (
-{
-closed = 1;
-nodes = (
-"230 19 OFFCURVE",
-"261 -12 OFFCURVE",
-"300 -12 CURVE SMOOTH",
-"339 -12 OFFCURVE",
-"369 19 OFFCURVE",
-"369 58 CURVE SMOOTH",
-"369 96 OFFCURVE",
-"339 127 OFFCURVE",
-"300 127 CURVE SMOOTH",
-"261 127 OFFCURVE",
-"230 96 OFFCURVE",
-"230 58 CURVE SMOOTH"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -44116,6 +44095,23 @@ nodes = (
 "60 127 OFFCURVE",
 "30 96 OFFCURVE",
 "30 58 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"230 19 OFFCURVE",
+"261 -12 OFFCURVE",
+"300 -12 CURVE SMOOTH",
+"339 -12 OFFCURVE",
+"369 19 OFFCURVE",
+"369 58 CURVE SMOOTH",
+"369 96 OFFCURVE",
+"339 127 OFFCURVE",
+"300 127 CURVE SMOOTH",
+"261 127 OFFCURVE",
+"230 96 OFFCURVE",
+"230 58 CURVE SMOOTH"
 );
 },
 {
@@ -44512,7 +44508,7 @@ unicode = 002E;
 {
 color = 4;
 glyphname = periodcentered;
-lastChange = "2014-04-28 12:19:53 -0500";
+lastChange = "2014-05-25 15:46:45 -0500";
 layers = (
 {
 components = (
@@ -80829,5 +80825,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 105;
+versionMinor = 106;
 }
