@@ -119,15 +119,15 @@ name = cpsp;
 fontMaster = (
 {
 alignmentZones = (
-"{739, 12}",
+"{959, 12}",
 "{689, 12}",
 "{527, 12}",
 "{0, -12}",
-"{-202, -14}"
+"{-265, -14}"
 );
-ascender = 739;
+ascender = 935;
 capHeight = 689;
-descender = "-202";
+descender = "-265";
 horizontalStems = (
 74
 );
@@ -139,15 +139,15 @@ xHeight = 527;
 },
 {
 alignmentZones = (
-"{742, 18}",
+"{938, 18}",
 "{693, 19}",
 "{531, 19}",
 "{0, -15}",
-"{-222, -15}"
+"{-285, -15}"
 );
-ascender = 742;
+ascender = 938;
 capHeight = 693;
-descender = "-222";
+descender = "-285";
 horizontalStems = (
 118
 );
